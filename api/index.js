@@ -4,7 +4,7 @@ module.exports = (req, res) => {
   res.setHeader('Access-Control-Allow-Methods', 'GET, POST');
   
   // قائمة المفاتيح الصالحة
-  const validKeys = ["FATAH2029", "123456", "ABC999", "مورينا2024"];
+  const validKeys = ["FATAH2040", "123456", "ABC999", "مورينا2024"];
   const expiredKeys = ["FATAH2013", "OLDKEY123"];
   
   // روابط الحلقات
