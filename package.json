@@ -1,0 +1,6 @@
+{
+  "name": "morena-api",
+  "version": "1.0.0",
+  "description": "API للحلقات مع نظام مفاتيح",
+  "main": "api/index.js"
+}
